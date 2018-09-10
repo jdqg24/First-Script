@@ -1,2 +1,2 @@
-# First-Unity-Script
-Script for start developing a videogame
+#first-unity-script
+// Script for start developing a videogame
